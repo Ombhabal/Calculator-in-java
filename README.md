@@ -17,7 +17,7 @@ To run this calculator on your local machine, follow these steps:
 
 ```bash
 git clone https://github.com/Ombhabal/Calculator-in-java-by-Om-Bhabal.git
- ``` bash
+ ```
 
 2. Open the project in your preferred Java development environment (e.g., Eclipse, IntelliJ, or Visual Studio Code).
 
