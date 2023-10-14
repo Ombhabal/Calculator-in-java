@@ -1,28 +1,77 @@
-# Calculator
-A very basic calculator application created using Java **Swing**. 
+Certainly! Here's a template for a README file for a Java calculator project on GitHub:
 
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+```markdown
+# Calculator in Java
 
-## Thank You!
-Please ⭐️ this repo and share it with others
+This is a simple calculator application implemented in Java. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Screenshots
-|                Scientific / Dark                | Standard / Colored |
-:------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
+## Features
 
-## Requirements 🔧
-* Java 11 or higher.
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-## Installation 🔌
-1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+## Getting Started
 
-2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+To run this calculator on your local machine, follow these steps:
 
-       git clone [https://github.com/Ombhabal/Calculator-in-java-by-Om-Bhabal.git]
-3. Imported it in Intellij IDEA or any other Java IDE.
-4. Run the application :D
+1. Clone the repository to your local machine:
 
-## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+   ```bash
+   git clone https://github.com/Ombhabal/Calculator-in-java-by-Om-Bhabal.git
+   ```
+
+2. Open the project in your preferred Java development environment (e.g., Eclipse, IntelliJ, or Visual Studio Code).
+
+3. Build and run the project.
+
+4. Use the calculator to perform various calculations.
+
+## Usage
+
+Once you run the application, you can use the graphical user interface to input numbers and perform calculations. The calculator provides buttons for each operation.
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository on GitHub.
+
+2. Clone your fork to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/Calculator-in-java.git
+   ```
+
+3. Create a new branch for your feature or bug fix:
+
+   ```bash
+   git checkout -b feature-name
+   ```
+
+4. Make your changes and commit them.
+
+5. Push your changes to your fork:
+
+   ```bash
+   git push origin feature-name
+   ```
+
+6. Create a pull request on the original repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact the project owner:
+
+- Name: Om Bhabal
+- GitHub: [Ombhabal](https://github.com/Ombhabal)
+
+Thank you for using this calculator application!
+```
+
+Make sure to replace "your-username" with your GitHub username and "feature-name" with the name of your feature branch when contributing.
