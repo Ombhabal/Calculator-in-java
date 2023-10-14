@@ -50,4 +50,4 @@ We appreciate your help in improving this project!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for using this calculator application!
-``
+
