@@ -19,7 +19,7 @@ Please ⭐️ this repo and share it with others
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/Ombhabal/Calculator-in-java-by-Om-Bhabal.git
+       git clone [https://github.com/Ombhabal/Calculator-in-java-by-Om-Bhabal.git]
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Run the application :D
 
