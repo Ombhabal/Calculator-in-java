@@ -31,31 +31,19 @@ Once you run the application, you can use the graphical user interface to input 
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
+We welcome contributions! Follow these simple steps:
 
-1. Fork the repository on GitHub.
+1. Fork this repository.
 
-2. Clone your fork to your local machine:
+2. Create a new branch for your work.
 
-   ```bash
-   git clone https://github.com/your-username/Calculator-in-java.git
-   ```
+3. Make changes, ensuring code quality.
 
-3. Create a new branch for your feature or bug fix:
+4. Push your branch to your fork.
 
-   ```bash
-   git checkout -b feature-name
-   ```
+5. Create a pull request here.
 
-4. Make your changes and commit them.
-
-5. Push your changes to your fork:
-
-   ```bash
-   git push origin feature-name
-   ```
-
-6. Create a pull request on the original repository.
+We appreciate your help in improving this project!
 
 ## License
 
